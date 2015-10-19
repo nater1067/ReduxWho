@@ -1,0 +1,29 @@
+{
+  "name": "redux_who",
+  "version": "1.0.0",
+  "description": "A sample application demoing the core concepts of Redux",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "tutorial"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nater1067/ReduxWho.git"
+  },
+  "author": "Nate Turner",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "immutable": "^3.7.5",
+    "redux": "^3.0.2",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.12.1"
+  }
+}
